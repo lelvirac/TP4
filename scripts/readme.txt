@@ -1,1 +1,2 @@
-Example of readme 1
+Example of readme 1 & 2
+
