@@ -1,0 +1,6 @@
+Git
+Matlab
+Communication
+Embeded Systems
+MBSE
+Project Management
